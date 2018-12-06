@@ -1,0 +1,29 @@
+:host {
+}
+
+.bg {
+    background-image:url('../../../assets/images/background.png');
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    background-repeat: repeat !important;
+}
+
+.login-form-container {
+    background-color: rgba(204, 204, 204, 0.5);
+    background: rgba(204, 204, 204, 0.5);
+    border: solid 1px #bebebe;
+    padding: 20px 40px;
+    margin: 10px;
+}
+
+.logo {
+    margin: 10px 0px;
+}
+
+.submit {
+    margin-top: 20px;
+}
+
